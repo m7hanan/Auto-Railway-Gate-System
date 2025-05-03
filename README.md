@@ -25,9 +25,7 @@ After the train passes, the gate reopens and traffic resumes.
 - Train leaves → gate opens + green light ON
 
 ## 🎥 Video Demo
-[Click to Watch]([https://your-video-link.com](https://www.linkedin.com/posts/mohamed-hanan-ibrahim-a3885b341_stem-innovation-younginventor-activity-7324472720845406208-1qjt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFW71QwBqqWOyTighNZir5epxgXDm7RPJ3I))
-
-## 👦 Created By
+https://www.linkedin.com/posts/mohamed-hanan-ibrahim-a3885b341_stem-innovation-younginventor-activity-7324472720845406208-1qjt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFW71QwBqqWOyTighNZir5epxgXDm7RPJ3I
 **Habeeb** – 12 years old  
 Guided by: His elder brother, Hanan (me)💡
 
